@@ -1,4 +1,3 @@
-- [P-Seminar 3D-Druck](README.md)
-- Inhalt
+- P-Seminar 3D-Druck
   - [Projektstrukturplan](strukturplan.md)
   - [Vortrag](vortrag.md)
