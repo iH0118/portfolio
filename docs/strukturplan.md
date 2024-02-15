@@ -1,18 +1,22 @@
-## Projekt: Multitool-Schlüsselanhänger
+# Projekt: Multitool-Schlüsselanhänger
 
 * Bedarfsermittlung
-  * geplante Werkzeuge
+  - geplante Werkzeuge
+
 * Planung
-  * Materialrecherche und Bestellung des Materials
-  * Designerstellung
-  * Passende Maße / Dicke ermitteln
-  * Modell mit OnShape
+  - Materialrecherche und Bestellung des Materials
+  - Designerstellung
+  - Passende Maße / Dicke ermitteln
+  - Modell mit OnShape
+
 * Prototyp
-  * Prototyp Drucken
-  * Testen
-  * Überarbeitung / Optimierung
+  - Prototyp Drucken
+  - Testen
+  - Überarbeitung / Optimierung
+
 * Druck
-  * Multitool (für jeden) drucken
+  - Multitool (für jeden) drucken
+
 * Zusätzlich zu unserem Projektziel
-  * Eigenes Modell erstellen und drucken
-  * Portfolio führen
+  - Eigenes Modell erstellen und drucken
+  - Portfolio führen

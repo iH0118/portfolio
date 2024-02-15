@@ -1,52 +1,55 @@
 # Vortrag 3D-Druck
 
-> 2023-12-11
+`2023-12-11`
 
 ## Möglichkeiten:
-- Einsparungen
-- Günstigere Einzelanfertigungen
-- "Digital Delivery"
+
+* Einsparungen
+* Günstigere Einzelanfertigungen
+* "Digital Delivery"
   - Anbieten von Ersatzteilen als digitales Modell
   - Einsparung von Lager- und Versandkosten
 
 ## Grenzen:
-- Kein ersatz für konventionelle Produktion
+
+* Kein ersatz für konventionelle Produktion
   - Deutlich höhere Kosten
   - Deutlich höherer Zeitaufwand
   - Produkteigenschaften oft schlechter als Spritzguss
-    - Weniger homogen
+    + Weniger homogen
 
 ## Anwendungen:
-- Architektur (Visualisierung)
-- Hausbau (Beton)
-- Modeartikel
-- Prototyping
-- Spezialteile / Kleinserien
+
+* Architektur (Visualisierung)
+* Hausbau (Beton)
+* Modeartikel
+* Prototyping
+* Spezialteile / Kleinserien
   - Luxusautos
   - Flugzeuge
   - Raumfahrt
-- Ersatzteile (Digital Delivery)
+* Ersatzteile (Digital Delivery)
   - Oldtimer
-- Medizin
+* Medizin
   - Bio-Printing
   - Prothesen
   - Zahnmedizin
-- Lebensmittel
+* Lebensmittel
 
 ## Verfahren und Geräte:
-- FDM (Fused Deposition Modeling)
+* FDM (Fused Deposition Modeling)
   - Drucken mit geschmolzenem Plasitkfilament
   - Schichten bauen aufeinander auf
   - Überhänge bis 70°
   - benötigt Stützstrukturen
 
-- SLA (Stereolithographie)
+* SLA (Stereolithographie)
   - Aushärten von Kunstharz mit UV-Licht
   - sehr hohe Qualität
   - benötigt Stützstrukturen
   - aufwendige Nachbearbeitung
 
-- SLS / SLM
+* SLS / SLM
   - Pulver wird mit Laser geschmolzen
   - hohe Qualität
   - keine Stützstrukturen nötig
@@ -54,85 +57,88 @@
   - Industriemaschinen
   - Kunststoff, Metall und Keramik
 
-- Binder Jetting
-- Polyjet
-- Sheet Lamination
+* Binder Jetting
+* Polyjet
+* Sheet Lamination
 
 ## FDM-Materialien
-- PLA (polylactic acid)
+
+* PLA (polylactic acid)
   - Herstellung aus Maisstärke / Zuckerrohr
   - Biologisch abbaubar
 
-- ABS
+* ABS
   - Anwendung: Gehäuse, Funktionsteile
 
-- ASA
+* ASA
   - Ähnlich zu ABS
   - UV-Stabil, geeignet für outdoor-Anwendungen
 
-- HIPS
+* HIPS
   - Ähnlich zu ABS, Schlagfest
   - Löslich in Limonene, geeignet für stützstrukturen
 
-- PETG
+* PETG
   - Chemisch stabil
   - Geringe Schrumpfung
   - Transparente Teile möglich
   - Lebensmittelecht
 
-- PC (Polycarbonat)
+* PC (Polycarbonat)
   - Extrem stabil
   - Sehr schwierig zu verarbeiten
   - Anwendung: kugelsichere Fenster, Automobilindustrie
 
-- PP (Polypropylen)
+* PP (Polypropylen)
   - Extrem Schlagfest
   - Gute Schichtenhaftung
   - Anwendung: Geschirr, Flaschen
 
-- TPE / TPU
+* TPE / TPU
   - Flexibel
   - Sehr schwierige Verarbeitung
 
-- Nylon
+* Nylon
   - Sehr stabil und Abriebfest
 
-- PMMA
-- PEEK
-- Lösliche Stützmaterialien: PVA, HIPS, BVOH
-- Carbon-verstärktes Filament
+* PMMA
+* PEEK
+* Lösliche Stützmaterialien: PVA, HIPS, BVOH
+* Carbon-verstärktes Filament
 
 ## Software:
-- Modell-Erstellung
+
+* Modell-Erstellung
   - Photogrammetrie
   - 3D-Scanning
   - CAD-Software
   - Mesh-Modellierung
 
-- Slicer
+* Slicer
   - Zerlegt das Modell in druckbare Schichten
 
 ## Praxis und Herausforderungen
-- Warping
+
+* Warping
   - Verziehen durch ungleichmäßiges abkühlen
   - Modell kann sich von der Druckplattform ablösen
   - Start materialabhängig
 
-- Schichtenhaftung / Überhänge
+* Schichtenhaftung / Überhänge
   - Stützen
-    - Bei SLS nicht benötigt
+    + Bei SLS nicht benötigt
 
-- Clogging
+* Clogging
   - Filament Grinding
   - Verstopfte Düsen
 
-- Düsen
+* Düsen
   - Durchmesser 0.2mm - 2mm
   - Varianten:
-    - Messing: günstig, guter Wärmeleiter
-    - Stahl: stabiler, abriebfest
-    - Beschichtet
+    + Messing: günstig, guter Wärmeleiter
+    + Stahl: stabiler, abriebfest
+    + Beschichtet
 
-- Filamentlagerung:
+* Filamentlagerung:
   - Geliefert in luftdichter Verpackung
   - Am besten trocken, kühl und luftdicht lagern
